@@ -43,8 +43,10 @@ if answer == "Yes":
   if class_info_response == "Yes":
     print("Warrior 🛡️: Warriors are the frontline fighters, excelling in melee combat and defense. They have high strength and constitution, making them durable in battle. 💪")
     print("As a Warrior, your starting skills are: Slash, Multy Strike & Shield Block.")
+    print("----------------------------------------------------------------------")
     print("Mage 🪄: Mages wield powerful spells to attack enemies and support allies. They have high intelligence and mana, allowing them to cast devastating magic. 🔮")
     print("As a Mage, your starting skills are: Fireball, Ice Spikes & Heal.")
+    print("----------------------------------------------------------------------")
     print("Rogue ⚔️: Rogues are masters of stealth and agility. They excel in sneaking, lockpicking, and dealing critical damage from the shadows. 🗡️")
     print("As a Rogue, your starting skills are: Backstab, Multi Shot & Evasion.")
     print("----------------------------------------------------------------------")
