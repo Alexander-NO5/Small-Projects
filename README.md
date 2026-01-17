@@ -1,2 +1,2 @@
-# Small-Projects
+# Projects – Learning Python
 Learning Python.
