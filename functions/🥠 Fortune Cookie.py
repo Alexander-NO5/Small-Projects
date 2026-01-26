@@ -1,6 +1,7 @@
+import random
+
 def fortune():
 
-  import random
   number = random.randint(0, 7)
   
   #if number == 0:
